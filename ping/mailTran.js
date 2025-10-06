@@ -5,8 +5,8 @@ var mailTran =
     mtPort: 465,
     mtSecure: true,
     mtService: 'gmail',
-    mtUser: 'practicalmail12345@gmail.com',
-    mtPass: 'xewlcdnuewkfudpo',
+    mtUser: 'some@email.com',   //add an email
+    mtPass: 'some_password',    //use the 3rd part password of the email above
     mtSubDn: 'Site DOWN.',
     mtSubUp: 'Site UP.',
     mtStatUp: 'UP',
